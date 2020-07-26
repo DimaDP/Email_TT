@@ -6,4 +6,4 @@ npm install
 
 npm start
 
-[**DEMO LINK**](https://dimadp.github.io/Emai_TT/)
+[**DEMO LINK**](https://dimadp.github.io/Email_TT/)
